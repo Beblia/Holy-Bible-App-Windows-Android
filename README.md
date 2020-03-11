@@ -1,4 +1,4 @@
-<h2>Holy Bible Application for Windows 10</h2>
+<h2>Holy Bible Application for Windows 10 and Android</h2>
 <br/>
 Over 80+ languages with audio. Free to use with no ads. If you have any issues please provide feedback. You are free to use this software in any way you please. 
 <br/>
