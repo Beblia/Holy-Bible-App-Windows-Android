@@ -8,6 +8,19 @@ Our Site:
 https://www.beblia.com
 <br/>
 <br/>
-Windows 10 Application:
+Windows 10 Application Download Link:
 <br/>
 http://51.91.170.33/W10/Beblia/HolyBible/index.html
+
+<br/>
+----------------------------------
+<br/>
+<img src="http://51.91.170.33/W10/Beblia/HolyBible/1.png" />
+<br/>
+----------------------------------
+<br/>
+<img src="http://51.91.170.33/W10/Beblia/HolyBible/2.png" />
+<br/>
+----------------------------------
+<br/>
+<img src="http://51.91.170.33/W10/Beblia/HolyBible/3.png" />
