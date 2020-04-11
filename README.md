@@ -10,22 +10,22 @@ https://www.beblia.com
 <br/>
 Windows 10 Download Link:
 <br/>
-http://51.91.170.33/W10/Beblia/HolyBible/index.html
+https://servervideos.hopto.org/W10/Beblia/HolyBible/index.html
 <br/>
 <br/>
 Android Download Link:
 <br/>
-http://51.91.170.33/Android/Beblia/beblia.beblia.apk
+https://servervideos.hopto.org/Android/Beblia/beblia.beblia.apk
 <br/>
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/HolyBible/1.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/HolyBible/1.png" />
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/HolyBible/2.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/HolyBible/2.png" />
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/HolyBible/3.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/HolyBible/3.png" />
